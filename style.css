@@ -1,12 +1,12 @@
-#bgcolor
+body
 {
     background-color: cyan;
 }
-.heading
+h1
 {
-    color: rgb(13, 0, 255);
+    color: rgb(250, 0, 0);
 }
-.h2 
+h2 
 {
-    color: brown;
+    color: rgb(255, 0, 128);
 }
